@@ -1,4 +1,4 @@
-#Ingredients
+# Ingredients
 Plain Yogurt  - 1 cup
 Chilli powder - 2 spoons
 Turmeric  - ½ spoon

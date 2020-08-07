@@ -1,4 +1,4 @@
-#Procedure
+# Procedure
 1.Take a bowl , add yogurt and whisk well.
 
 2.Now we need to add the spices like Turmeric , chill powder, garam masala, kasoori methi, lemon juice , mustard oil, add salt to your taste mix them well.
@@ -21,4 +21,4 @@
 
 11.Serve hot with Sauce.
 
-##Enjoy !
+## Enjoy !
